@@ -1,2 +1,3 @@
 function main () { console.log("Hello World") }
-return
+correction anoA
+return true
